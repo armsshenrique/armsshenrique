@@ -87,29 +87,29 @@ interesses:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🐍 A Cobrinha que come meus Commits
+## 🐍 Minhas Contribuições
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/⬇_A_cobrinha_está_comendo_meus_commits!_⬇-0d1117?style=for-the-badge&logoColor=00d4ff&labelColor=0d1117&color=7c3aed" alt="Snake Info"/>
+
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/armsshenrique/armsshenrique/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/armsshenrique/armsshenrique/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/armsshenrique/armsshenrique/output/github-snake-dark.svg" />
+  <img alt="Snake animation - Contribuições sendo devoradas pela cobrinha" src="https://raw.githubusercontent.com/armsshenrique/armsshenrique/output/github-snake-dark.svg" width="100%"/>
 </picture>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Cada_quadrado_🟩_=_um_commit_devorado_🐍-0d1117?style=flat-square&labelColor=0d1117&color=00d4ff" alt="Info"/>
 
 </div>
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=armsshenrique&bg_color=0d1117&color=00d4ff&line=7c3aed&point=00d4ff&area=true&area_color=7c3aed&hide_border=false&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es" alt="Contribution Graph"/>
-</div>
-
-<br/>
 
 <div align="center">
 
@@ -124,3 +124,4 @@ interesses:
 
 <!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=120&section=footer"/>
+
