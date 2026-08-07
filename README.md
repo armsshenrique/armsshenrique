@@ -12,8 +12,8 @@
 
 <!-- SOCIAL BADGES -->
 [![GitHub](https://img.shields.io/badge/-armsshenrique-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/armsshenrique)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://linkedin.com/in/armsshenrique)
-[![Email](https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00d4ff)](mailto:seu-email@email.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://www.linkedin.com/in/armstrong-henrique/)
+[![Discord](https://img.shields.io/badge/-armsslayer-0d1117?style=for-the-badge&logo=discord&logoColor=00d4ff)](https://discord.com/users/armsslayer)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
