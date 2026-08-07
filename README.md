@@ -103,10 +103,41 @@ interesses:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 GitHub Trophies
+## 🚀 Atualmente trabalhando em
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=armsshenrique&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="100%"/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🔧 Infraestrutura & DevOps**<br/>
+Automação de deploys, CI/CD pipelines e gerenciamento de servidores Linux com Docker
+
+</td>
+<td align="center" width="50%">
+
+**💻 Full Stack Projects**<br/>
+Aplicações web com Node.js + Python no backend e React no frontend
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**☁️ Cloud & Arquitetura**<br/>
+Migração e otimização de serviços na AWS com foco em escalabilidade
+
+</td>
+<td align="center" width="50%">
+
+**📚 Aprendizado Contínuo**<br/>
+Sempre explorando novas tecnologias e contribuindo com projetos open source
+
+</td>
+</tr>
+</table>
+
 </div>
 
 <br/>
@@ -120,8 +151,9 @@ interesses:
 
 <br/>
 
-<!-- CITAÇÃO DEV ALEATÓRIA - muda a cada visita -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" width="512px"/>
+```
+⚡ "First, solve the problem. Then, write the code." — John Johnson
+```
 
 </div>
 
