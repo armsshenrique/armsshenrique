@@ -87,24 +87,26 @@ interesses:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🐍 Minhas Contribuições
+## 🐍 Contribuições
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/⬇_A_cobrinha_está_comendo_meus_commits!_⬇-0d1117?style=for-the-badge&logoColor=00d4ff&labelColor=0d1117&color=7c3aed" alt="Snake Info"/>
-
-<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/armsshenrique/armsshenrique/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/armsshenrique/armsshenrique/output/github-snake.svg" />
-  <img alt="Snake animation - Contribuições sendo devoradas pela cobrinha" src="https://raw.githubusercontent.com/armsshenrique/armsshenrique/output/github-snake-dark.svg" width="100%"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/armsshenrique/armsshenrique/output/github-snake-dark.svg" width="100%"/>
 </picture>
+
+</div>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Cada_quadrado_🟩_=_um_commit_devorado_🐍-0d1117?style=flat-square&labelColor=0d1117&color=00d4ff" alt="Info"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=armsshenrique&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="100%"/>
 </div>
 
 <br/>
@@ -118,10 +120,10 @@ interesses:
 
 <br/>
 
-*⚡ "O código não mente, os comentários às vezes sim." — Ron Jeffries*
+<!-- CITAÇÃO DEV ALEATÓRIA - muda a cada visita -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" width="512px"/>
 
 </div>
 
 <!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=120&section=footer"/>
-
