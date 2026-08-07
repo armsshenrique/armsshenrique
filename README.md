@@ -109,30 +109,22 @@ interesses:
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-**🔧 Infraestrutura & DevOps**<br/>
-Automação de deploys, CI/CD pipelines e gerenciamento de servidores Linux com Docker
-
-</td>
-<td align="center" width="50%">
-
-**💻 Full Stack Projects**<br/>
-Aplicações web com Node.js + Python no backend e React no frontend
+**💻 Full Stack Development**<br/>
+Aplicações web completas com Node.js + Python no backend e React no frontend
 
 </td>
-</tr>
-<tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-**☁️ Cloud & Arquitetura**<br/>
-Migração e otimização de serviços na AWS com foco em escalabilidade
+**⚙️ Desenvolvimento de APIs**<br/>
+Criação de APIs RESTful escaláveis com Express, FastAPI e Django
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-**📚 Aprendizado Contínuo**<br/>
-Sempre explorando novas tecnologias e contribuindo com projetos open source
+**🔧 Infraestrutura**<br/>
+Gerenciamento de servidores, Docker, Linux e automação de deploys
 
 </td>
 </tr>
@@ -153,6 +145,7 @@ Sempre explorando novas tecnologias e contribuindo com projetos open source
 
 ```
 ⚡ "First, solve the problem. Then, write the code." — John Johnson
+(Primeiro, resolva o problema. Depois, escreva o código.)
 ```
 
 </div>
